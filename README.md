@@ -6,11 +6,11 @@ In this repository, I implement the creation of sphere objects, and implementing
 ## Ray tracing
 A simple ray tracing algorithm from scratch to generate the following image of spheres above a checkerboard.
 <p align="center">
-  <img src="https://github.com/kaixuankhoo98/ICL_Graphics_Textures/blob/main/5a.png" alt="Texture mapping"/>
+  <img src="https://github.com/kaixuankhoo98/ICL_Graphics_RayTracing/blob/main/task6a.png" alt="Ray Tracing"/>
 </p>
 
 ## Extension
 In this extension, I implemented a purple fog, as well as a rainbow color scheme and smooth shadowing.
 <p align="center">
-  <img src="https://github.com/kaixuankhoo98/ICL_Graphics_Textures/blob/main/5a_phong.png" alt="Texture mapping phong"/>
+  <img src="https://github.com/kaixuankhoo98/ICL_Graphics_RayTracing/blob/main/task6.png" alt="Extension"/>
 </p>
